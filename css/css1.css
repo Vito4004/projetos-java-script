@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+
+body{
+font-family: arial;
+margin: 50px;
+background-color: rgb(15, 0, 43);
+color: aliceblue;
+}
+
+button{
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px 10px;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    border: 2px solid  rgb(115, 0, 192);;
+}
+
+#informacao{
+margin-top: 10px 20px;
+
+}
+
+p{
+margin:10px 0 ;
+
+}
+
+h1{
+    margin:10px 0 ;
+
+}
+
+img{
+border-radius: 20px;
+border: 2px solid rgb(115, 0, 192);
+margin:30px 0;
+}
+
