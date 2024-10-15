@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+div{
+    margin: 25px;
+}
+
+section{
+    padding:0 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+text-align: center;
+font-family: monospace;
+
+}
+
+p{
+    text-align: center;
+    text-decoration: none;
+    font-family: arial;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+border-radius: 10px;
+
+
+}
